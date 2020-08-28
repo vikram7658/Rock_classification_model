@@ -1,0 +1,118 @@
+No.,D,H,Q,k,E,Class,HEP,Location,Rock Type
+1,6,150,0.4,26.19,0.42,minor,Khara hydroproject,India,Clay conglomerate
+2,6,200,0.4,20,0.75,minor,Khara hydroproject,India,Clay conglomerate
+3,5.8,350,0.5,2.53,7.9,sever,Maneri stage,India,Clay conglomerate
+4,4.8,225,3.6,1000,0.06,minor,Maneri-Bhali hydroproject,India,Fractured quartzite
+5,4.8,340,1.8,500,0.4,minor,Maneri-Uttarkashi power,India,Sheared metabasics
+6,4.8,550,5.1,1600,0.05,minor,Maneri-Uttarkashi power,India,Foliated metabasics
+7,12,220,0.8,32.89,0.38,minor,Tehri dam,India,Argillaceous phyllite
+8,13,52,15,16.67,0.18,minor,Upper Krishna,India,Banded schists
+9,3,280,0.05,9.8,2.8,sever,Chibro-Khodri tunnel,India,Crushed red shales
+10,3,280,0.022,5.96,4.5,sever,Chibro-Khodri tunnel,India,Soft and plastic
+11,9,680,0.05,9.9,6,sever,Chibro-Khodri tunnel,India,Seamy crushed red
+12,9,280,0.022,48.56,2,mild,Chibro-Khodri tunnel,India,Soft and plastic
+13,4.2,100,0.005,88.96,2.62,sever,Khimti 1,Nepal,Sheared schists
+14,4,112,0.006,71.28,1.19,mild,Khimti 1,Nepal,Sheared schists
+15,4.3,111,0.008,1936,0.75,minor,Khimti 1,Nepal,Sheared schists
+16,4,112,0.008,936,0.2,minor,Khimti 1,Nepal,Gneiss [41]
+17,4,112,0.008,651,0.1,minor,Khimti 1,Nepal,Clay-filled sheared
+18,4,140,0.009,430,0.8,minor,Khimti 1,Nepal,Schists [41]
+19,4.2,100,0.01,31.72,3.81,sever,Khimti 1,Nepal,Sheared schists
+20,4,138,0.013,1934,0.19,minor,Khimti 1,Nepal,Sericite schists
+21,4.4,212,0.04,5324,0.02,minor,Khimti 1,Nepal,Gneiss and sericite
+22,5,300,0.05,1430,0.18,minor,Khimti 1,Nepal,Gneiss and sericite
+23,4,112,0.06,458,0.3,minor,Khimti 1,Nepal,Gneiss and schists
+24,4,95,0.065,933,0.29,minor,Khimti 1,Nepal,Gneiss 
+25,4,218,0.07,739,0.14,minor,Khimti 1,Nepal,Chlorite sericite gneiss
+26,4,98,0.08,933,0.77,minor,Khimti 1,Nepal,Gneiss and sericite
+27,5,284,0.09,68.55,1.24,mild,Khimti 1,Nepal,Gneiss [41] 
+28,5,300,0.09,664.29,0.28,minor,Khimti 1,Nepal,Gneiss and sericite
+29,4,261,0.095,931,0.15,minor,Khimti 1,Nepal,Banded gneiss schist
+30,4,198,0.14,934,0.29,minor,Khimti 1,Nepal,Gneiss and chlorite
+31,4,225,0.14,1430,0.24,minor,Khimti 1,Nepal,Gneiss and sericite
+32,5,130,0.2,936,0.34,minor,Khimti 1,Nepal,Gneiss and schists
+33,4.1,158,0.23,650,0.32,minor,Khimti 1,Nepal,Gneiss and schists
+34,5,276,0.25,940,0.77,minor,Khimti 1,Nepal,Gneiss and schists
+35,5,276,0.28,652,0.56,minor,Khimti 1,Nepal,Gneiss and schists
+36,4,126,0.3,461,0.03,minor,Khimti 1,Nepal,Gneiss [41] 
+37,4,114,0.47,648,0.03,minor,Khimti 1,Nepal,Banded gneiss [41]
+38,4,114,0.6,556,0.24,minor,Khimti 1,Nepal,Banded gneiss [41]
+39,4.6,300,0.023,7.71,7,sever,Loktak hydro,India,Fractured quartzite 
+40,4.8,350,0.5,25.32,7.9,sever,Maneri-Bhali stage,India,Fractured quartzite 
+41,4.8,800,2.5,48.99,8.9,sever,Maneri-Uttarkashi power,India,Laminated metabasics 
+42,7,285,0.1,9.79,2.87,sever,Maneri stage,India,Sheared metabasics
+43,7,410,0.3,9.79,2.8,sever,Maneri stage,India,Sheared metabasics
+44,7,415,0.88,9.79,2.19,mild,Maneri stage,India,"Metavolcanic [42,"
+45,2.5,480,0.8,9.84,2.88,sever,Maneri stage,India,"Metavolcanic [42,"
+46,7,500,1,9.79,2.64,sever,Maneri stage,India,"Metavolcanic [42,"
+47,2.5,510,0.88,9.84,2.42,mild,Maneri stage,India,"Metavolcanic [42,"
+48,4.6,240,0.12,3.97,4.5,sever,Giri-Bata tunnel,India,Crushed phyllites
+49,4.6,440,0.05,3.97,10.04,sever,Giri-Bata tunnel,India,Crushed phyllites
+50,4.6,450,0.06,3.97,10.3,sever,Giri-Bata tunnel,India,Crushed phyllites
+51,4.6,400,0.03,3.98,10.43,sever,Giri-Bata tunnel,India,Crushed phyllites
+52,4.6,400,0.05,3.98,7.61,sever,Giri-Bata tunnel,India,Crushed phyllites
+53,4.6,200,0.02,2.98,6.2,sever,Giri-Bata tunnel,India,Crushed phyllites
+54,4.6,325,0.03,2.98,8.75,sever,Giri-Bata tunnel,India,Crushed phyllites
+55,4.6,400,0.512,2.98,0.67,minor,Giri-Bata tunnel,India,Crushed slates
+56,5.8,700,0.3,9.81,4.83,sever,Maneri stage I,India,Sheared metabasics
+57,5.8,550,1.7,9.81,2.66,sever,Maneri stage I,India,Siliceous phyllites
+58,5.8,635,4,9.81,2.33,mild,Maneri stage I,India,Foliated metabasics
+59,5.8,650,4.12,9.81,2.07,mild,Maneri stage I,India,Siliceous phyllites
+60,5.8,450,0.31,5.1,4.83,sever,Maneri stage I,India,Sheared metabasics
+61,5.8,750,0.5,8.1,4.14,sever,Maneri stage I,India,Crushed quartzite
+62,7,450,0.59,9.67,3,sever,Noonidih colliery,India,Weak coal
+63,6.8,337,0.007,44.76,2.1,mild,"Tala hydro-HRT, tala",Bhutan,AGO
+64,6.8,337,0.011,16.05,3.8,sever,"Tala HRT,",Bhutan,"completely sheared, highly weathered biotite schist associated with banded gneiss, and quarzites in thin bands"
+65,6.8,337,0.006,22.58,3.1,sever,"Tala HRT,",Bhutan,"completely sheared, highly weathered biotite schist associated with banded gneiss, and quarzites in thin bands"
+66,6.8,337,0.006,36.36,2.2,mild,"Tala HRT,",Bhutan,"completely sheared, highly weathered biotite schist associated with banded gneiss, and quarzites in thin bands"
+67,6.8,337,0.08,14.09,2.2,mild,"Tala HRT,",Bhutan,"completely sheared, highly weathered biotite schist associated with banded gneiss, and quarzites in thin bands"
+68,8.7,550,0.029,39.13,2.3,mild,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+69,8.7,600,0.023,90.71,1.4,mild,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+70,8.7,600,0.03,34.48,2.9,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+71,8.7,600,0.018,26.2,3.9,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+72,8.7,600,0.023,28.48,3.2,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+73,8.7,620,0.02,26.2,4.9,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+74,8.7,620,0.008,14.67,8.5,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+75,8.7,620,0.009,14.67,7.7,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+76,8.7,620,0.009,14.67,8.2,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+77,8.7,620,0.016,26.2,4.4,sever,Kaligandaki “A” HRT,Nepal,Siliceous phyllites
+78,8.7,620,0.02,26.1,4.1,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+79,8.7,620,0.025,50.8,2.5,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+80,8.7,580,0.023,26.2,3.7,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+81,8.7,580,0.025,74.66,1.7,mild,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+82,8.7,550,0.025,39.87,2.4,mild,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+83,8.7,575,0.007,21.17,6,sever,Kaligandaki “A” HRT,Nepal,Graphitic phyllite
+84,11,700,0.417,7.43,3.5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+85,11,700,0.333,9.14,3.5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+86,11,750,0.333,9.14,3.5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+87,11,600,0.25,9.14,3.5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+88,11,850,0.056,20.4,5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+89,11,600,0.033,33.33,3,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+90,11,300,0.001,16.5,6,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+91,11,400,0.003,17,6,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+92,11,800,0.194,17.14,3.5,sever,Nathpa Jhakri-HRT India,India,"Quartz mica schist, schistose quartzites, and amphibolites"
+93,6.5,300,0.033,10,3,sever,Udhampur rail tunnel,India,"Claystone, silty"
+94,6.5,312,0.094,34.67,1.5,mild,Udhampur rail tunnel,India,"Claystone, silty"
+95,6.5,280,0.083,29.33,1.5,mild,Udhampur rail tunnel,India,"Claystone, silty"
+96,6.5,270,0.125,15.91,2.2,mild,Udhampur rail tunnel,India,"Claystone, silty"
+97,6.5,285,0.063,12.8,2.5,sever,Udhampur rail tunnel,India,"Claystone, silty"
+98,6.5,280,0.031,11.54,2.6,sever,Udhampur rail tunnel,India,"Claystone, silty claystone"
+99,6.5,280,0.042,12.5,2.4,mild,Udhampur rail tunnel,India,"Claystone, silty claystone"
+100,6,727,2.287,5.88,1.7,mild,Chenani–Nashri escape tunnel,India,silty  claystone
+101,6,736,2.426,7.69,1.3,mild,Chenani–Nashri escape tunnel,India,silty  claystone
+102,6,733,2.903,6.25,1.6,mild,Chenani–Nashri escape tunnel,India,silty  claystone
+103,6,690,1.65,9.38,1.6,mild,Chenani–Nashri escape tunnel,India,silty  claystone
+104,13,577,1.517,11.11,1.8,mild,Chenani–Nashri escape tunnel,India,Siltstone
+105,5.4,199.7,0.02,1217.16,4.58,sever,Chameliya hydroelectric project,Nepal,Dolomite
+106,5.4,217.5,0.013,1217.16,25.54,sever,Chameliya hydroelectric project,Nepal,Dolomite
+107,5.4,252.2,0.01,1523.07,12.5,sever,Chameliya hydroelectric project,Nepal,Brownish
+108,5.4,246.3,0.01,1523.07,3.8,sever,Chameliya hydroelectric project,Nepal,Foliated phyllite [50] 
+109,5.4,283.9,0.008,1645.38,36.73,sever,Chameliya hydroelectric project,Nepal,Talcose phyllite [50] 
+110,5.4,284.5,0.008,1828.98,30.19,sever,Chameliya hydroelectric project,Nepal,Talcose phyllite [50] 
+111,5.4,210.8,0.01,1575.72,18.3,sever,Chameliya hydroelectric project,Nepal,Talcose phyllite [50] 
+112,5.4,237.7,0.01,1575.72,10.96,sever,Chameliya hydroelectric project,Nepal,Talcose phyllite [50] 
+113,5.4,230,0.015,1217.16,9.8,sever,Chameliya hydroelectric project,Nepal,Foliated phyllite [50] 
+114,5.4,222.6,0.015,1217.16,1.2,mild,Chameliya hydroelectric project,Nepal,Foliated phyllite [50] 
+115,5.4,80,93.5,0,0,minor,Austria (Oetscher unit),Austria,
+116,5.4,190,7.45,0,0,minor,Austria (Oetscher unit),Austria,
+117,5.4,130,1.53,0,0,minor,Austria (Oetscher unit),Austria, 
